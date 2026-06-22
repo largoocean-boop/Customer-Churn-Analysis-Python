@@ -1,6 +1,0 @@
-
-- pandas
-- numPy
-- matplotlib
-- scikit-Learn
--
